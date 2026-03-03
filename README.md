@@ -1,4 +1,4 @@
-# massachusetts-general-hospital-rcm-and-performance-dashboard  
+# Massachusetts General Hospital RCM and Performance Dashboard  
 
 ![Payer](images/payer.png)  
 
